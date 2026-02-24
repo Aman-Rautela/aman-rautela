@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **📫 Connect with me on LinkedIn: https://www.linkedin.com/in/aman-rautela-9b31b2286/**
 
-- 📄 Know about my experiences [🌐 Portfolio: https://aman22portfolio.netlify.app/](🌐 Portfolio: https://aman22portfolio.netlify.app/)
+- 📄 Know about my experiences 🌐 Portfolio: https://aman22portfolio.netlify.app/
 
 - ⚡ Fun fact **I practice Data Structures in JavaScript.**
 
