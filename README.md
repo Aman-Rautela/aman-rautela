@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Rautela</h1>
 <h3 align="center">Associate Software Engineer | Full-Stack JavaScript Developer | Data Structures & Systems</h3>
-<h1 align="center">💫 About Me:</h1><br> 
+<h3>💫 About Me:</h3><br> 
 💻 I’m currently working on Full Stack, Backend & AI-based projects.<br>⚙️ Building scalable apps using React, Node.js, FastAPI & PostgreSQL  <br>🔗 Exploring Blockchain fundamentals, Smart Contracts & Web3 concepts  <br>🤝 I’m looking to collaborate on Open Source, SaaS & startup ideas.<br>🛠️ I’m looking for help with System Design, DevOps & backend scaling.<br>🌱 I’m currently learning Next.js, Docker, WebRTC, and React Native.<br>💬 Ask me about React, JavaScript, Linux, APIs & UI/UX design.<br>🚀 Interested in backend engineering, real-time systems & modern web architecture.<br>⚡ Fun fact: I use Arch Linux with Hyprland, btw. 👀
 
 
